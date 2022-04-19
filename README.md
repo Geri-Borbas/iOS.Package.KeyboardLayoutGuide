@@ -12,3 +12,4 @@ Animate to text fields (or any responder), swipe down keyboard dismissal for fre
 > Licensed under the [**MIT License**](https://en.wikipedia.org/wiki/MIT_License).
 
 [`keyboardLayoutGuide`]: https://developer.apple.com/documentation/uikit/uiview/3752221-keyboardlayoutguide
+[Keyboard Avoidance with a single line of code]: https://blog.eppz.eu/keyboard-avoidance/
